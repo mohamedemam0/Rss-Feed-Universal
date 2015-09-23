@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EMAM</Machine>
+    <WindowsUser>Mohammed</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1af9459f-7c87-40da-a76b-42518cbae962</PackageIdentityName>
+    <IntermediateOutputPath>E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8F5FF24BD823B4644B82D86E3F4CFD47AF0763E367B869DE7C27ACB5C77F7C78</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1af9459f-7c87-40da-a76b-42518cbae962_1.0.0.0_neutral__ng8fjaqf7gktm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1af9459f-7c87-40da-a76b-42518cbae962_ng8fjaqf7gktm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1af9459f-7c87-40da-a76b-42518cbae962</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mohammed</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-26T17:18:59.463</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\Rss Feed.Windows.exe">
+      <PackagePath>Rss Feed.Windows.exe</PackagePath>
+      <Modified>2015-04-17T08:43:46.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-23T19:38:16.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-11T11:35:18.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\Rss Feed.Windows.xr.xml">
+      <PackagePath>Rss Feed.Windows.xr.xml</PackagePath>
+      <Modified>2015-04-09T18:34:04.579</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-26T17:18:58.245</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,64 @@
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\App.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\MainPage.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\Rss Feed.Windows.xr.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\Rss Feed.Windows.exe
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\Rss Feed.Windows.pdb
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\resources.pri
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\AppxManifest.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\Rss Feed.Windows.build.appxrecipe
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\App.g.i.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\App.g.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\MainPage.g.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\App.xaml
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\App.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\MainPage.xaml
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\MainPage.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\Rss Feed.Windows.exe
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\Rss Feed.Windows.pdb
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\priconfig.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\layout.resfiles
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\resources.resfiles
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\pri.resfiles
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\qualifiers.txt
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\mohammed\documents\visual studio 2013\Projects\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\ProjectArchitectures.txt
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\App.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\MainPage.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\Rss Feed.Windows.xr.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\Rss Feed.Windows.exe
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\Rss Feed.Windows.pdb
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\resources.pri
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\AppxManifest.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\bin\Debug\Rss Feed.Windows.build.appxrecipe
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\App.g.i.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\App.g.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\MainPage.g.i.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\MainPage.g.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\XamlTypeInfo.g.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\App.xaml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\MainPage.xaml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\App.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\MainPage.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\XamlSaveStateFile.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\Rss Feed.Windows.exe
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\Rss Feed.Windows.pdb
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\priconfig.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\priconfig.xml.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\layout.resfiles
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\layout.resfiles.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\resources.resfiles
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\resources.resfiles.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\pri.resfiles
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\pri.resfiles.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\qualifiers.txt
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\qualifiers.txt.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\RSS Feed Universal\Rss Feed\Rss Feed\Rss Feed\Rss Feed.Windows\obj\Debug\ProjectArchitectures.txt
